@@ -1,4 +1,4 @@
-package com.kognit.newarchitecture.components;
+package org.name.kognit.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

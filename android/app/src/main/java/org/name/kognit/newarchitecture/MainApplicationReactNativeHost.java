@@ -1,4 +1,4 @@
-package com.kognit.newarchitecture;
+package org.name.kognit.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.kognit.BuildConfig;
-import com.kognit.newarchitecture.components.MainComponentsRegistry;
-import com.kognit.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import org.name.kognit.BuildConfig;
+import org.name.kognit.newarchitecture.components.MainComponentsRegistry;
+import org.name.kognit.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

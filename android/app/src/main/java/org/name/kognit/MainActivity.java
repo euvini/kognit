@@ -1,4 +1,4 @@
-package com.kognit;
+package org.name.kognit;
 
 import android.os.Build;
 import android.os.Bundle;
