@@ -10,3 +10,7 @@ Teste técnico para a empresa Kognit. Criação de Drawer Navigation, Stack Navi
 - Axios
 - Native Base
 - Typescript
+
+# Instalação
+- yarn install | npm i
+- yarn android ou yarn ios | npx react-native run-android ou npx react-native run-ios
